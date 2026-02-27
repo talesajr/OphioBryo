@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="909"
+   version="1.1"
+   id="svg71"
+   sodipodi:docname="snapshot (9).svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview71"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.66867907"
+     inkscape:cx="936.9218"
+     inkscape:cy="513.69934"
+     inkscape:window-width="1472"
+     inkscape:window-height="890"
+     inkscape:window-x="0"
+     inkscape:window-y="115"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg71" />
+  <title
+     id="title1">Krona (snapshot) - f__Ophiocordycipitaceae</title>
+  <defs
+     id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#hiddenPattern"
+       id="pattern95"
+       patternTransform="translate(-438.35273,-35.64094)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#hiddenPattern"
+       id="pattern94"
+       patternTransform="translate(-438.35273,-35.64094)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#hiddenPattern"
+       id="pattern93"
+       patternTransform="translate(-438.35273,-35.64094)" />
+    <rect
+       x="1528.5023"
+       y="592.53648"
+       width="501.84212"
+       height="330.12747"
+       id="rect92" />
+    <style
+       type="text/css"
+       id="style1">	text {font-size: 13px; font-family: sans-serif; dominant-baseline:central}	path {stroke-width:0.325;}	path.wedge {stroke:none}	path.line {fill:none;stroke:black;}	line {stroke:black;stroke-width:0.325;}	line.tick {stroke-width:0.65;}	line.pattern {stroke-width:0.21666666666666667;}	circle {fill:none;stroke:black;stroke-width:0.325;}	rect {stroke:black;stroke-width:0.325;}	.highlight {stroke:black;stroke-width:1.625;}	.searchHighlight {fill:rgb(255, 255, 100);stroke:none;}	</style>
+    <pattern
+       id="hiddenPattern"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="7.8"
+       height="7.8">
+      <line
+         class="pattern"
+         x1="0"
+         y1="0"
+         x2="3.9"
+         y2="3.9"
+         id="line1" />
+      <line
+         class="pattern"
+         x1="3.9"
+         y1="7.8"
+         x2="7.8"
+         y2="3.9"
+         id="line2" />
+    </pattern>
+  </defs>
+  <path
+     class="wedge"
+     fill="rgb(220,220,220)"
+     d=" M 895.8383338966763,544.7515402546912 L 928.3533355867053,815.5061610187652 A 363.6,363.6 0 0,1 885.0000000000001,818.1 L 885,545.4 A 90.9,90.9 0 0 0 895.8383338966763,544.7515402546912 Z "
+     id="path2" />
+  <path
+     class="wedge"
+     fill="rgb(212,127,127)"
+     d=" M 885,545.4 L 885,818.1 A 363.6,363.6 0 1,1 1244.421617011336,509.4641812906961 L 974.855404252834,468.24104532267404 A 90.9,90.9 0 1 0 885,545.4 Z "
+     id="path3" />
+  <path
+     class="wedge"
+     fill="rgb(212,127,127)"
+     d=" M 1093.9405739485692,426.71971028991044 L 1245.428169555202,406.5782451167888 A 363.6,363.6 0 0,1 1244.421617011336,509.4641812906961 L 1093.3570744222022,486.36279141184707 A 210.779287261187,210.779287261187 0 0 0 1093.9405739485692,426.71971028991044 Z "
+     id="path4" />
+  <path
+     class="wedge"
+     fill="rgb(221,153,153)"
+     d=" M 885,665.2792872611869 L 885,818.1 A 363.6,363.6 0 1,1 1017.4871295809799,115.89680967924613 L 961.8029228392725,258.2113885583814 A 210.779287261187,210.779287261187 0 1 0 885,665.2792872611869 Z "
+     id="path5" />
+  <path
+     class="wedge"
+     fill="rgb(221,174,153)"
+     d=" M 961.8029228392725,258.2113885583814 L 1017.4871295809799,115.89680967924613 A 363.6,363.6 0 0,1 1110.9455548325066,169.62534993188524 L 1015.9808663570659,289.35787761238373 A 210.779287261187,210.779287261187 0 0 0 961.8029228392725,258.2113885583814 Z "
+     id="path6" />
+  <path
+     class="wedge"
+     fill="rgb(221,176,153)"
+     d=" M 1015.9808663570659,289.35787761238373 L 1110.9455548325066,169.62534993188524 A 363.6,363.6 0 0,1 1147.0753716396885,202.46536035711446 L 1036.9253576538072,308.3952648265745 A 210.779287261187,210.779287261187 0 0 0 1015.9808663570659,289.35787761238373 Z "
+     id="path7" />
+  <path
+     class="wedge"
+     fill="rgb(221,176,153)"
+     d=" M 1036.9253576538072,308.3952648265745 L 1147.0753716396885,202.46536035711446 A 363.6,363.6 0 0,1 1169.5144568097155,228.10105153452548 L 1049.9333179919022,323.2563008959436 A 210.779287261187,210.779287261187 0 0 0 1036.9253576538072,308.3952648265745 Z "
+     id="path8" />
+  <path
+     class="wedge"
+     fill="rgb(221,177,153)"
+     d=" M 1049.9333179919022,323.2563008959436 L 1169.5144568097155,228.10105153452548 A 363.6,363.6 0 0,1 1182.147012692109,244.95617916971253 L 1057.256423396682,333.02723541090796 A 210.779287261187,210.779287261187 0 0 0 1049.9333179919022,323.2563008959436 Z "
+     id="path9" />
+  <path
+     class="wedge"
+     fill="rgb(221,177,153)"
+     d=" M 1057.256423396682,333.02723541090796 L 1182.147012692109,244.95617916971253 A 363.6,363.6 0 0,1 1193.0228592158905,261.2983483495348 L 1063.5611626118766,342.5008073911739 A 210.779287261187,210.779287261187 0 0 0 1057.256423396682,333.02723541090796 Z "
+     id="path10" />
+  <path
+     class="wedge"
+     fill="rgb(221,180,153)"
+     d=" M 1063.5611626118766,342.5008073911739 L 1193.0228592158905,261.2983483495348 A 363.6,363.6 0 0,1 1245.428169555202,406.5782451167888 L 1093.9405739485692,426.71971028991044 A 210.779287261187,210.779287261187 0 0 0 1063.5611626118766,342.5008073911739 Z "
+     id="path11" />
+  <path
+     class="wedge"
+     fill="url(#hiddenPattern)"
+     d=" M 1063.5611626118766,342.5008073911739 L 1193.0228592158905,261.2983483495348 A 363.6,363.6 0 0,1 1245.428169555202,406.5782451167888 L 1093.9405739485692,426.71971028991044 A 210.779287261187,210.779287261187 0 0 0 1063.5611626118766,342.5008073911739 Z "
+     id="path12" />
+  <path
+     class="wedge"
+     fill="rgb(212,193,127)"
+     d=" M 974.855404252834,468.24104532267404 L 1244.421617011336,509.4641812906961 A 363.6,363.6 0 0,1 1033.0036300679303,786.6142657079265 L 922.0009075169826,537.5285664269816 A 90.9,90.9 0 0 0 974.855404252834,468.24104532267404 Z "
+     id="path13" />
+  <path
+     class="wedge"
+     fill="rgb(212,193,127)"
+     d=" M 987.6043402569532,638.620225121439 L 1061.9952759694045,772.1123931532181 A 363.6,363.6 0 0,1 1033.0036300679303,786.6142657079265 L 970.797853844298,647.0269752892993 A 210.779287261187,210.779287261187 0 0 0 987.6043402569532,638.620225121439 Z "
+     id="path14" />
+  <path
+     class="wedge"
+     fill="rgb(221,206,153)"
+     d=" M 1093.3570744222022,486.36279141184707 L 1244.421617011336,509.4641812906961 A 363.6,363.6 0 0,1 1110.556475570188,739.682812119446 L 1015.7553167157029,619.820764240038 A 210.779287261187,210.779287261187 0 0 0 1093.3570744222022,486.36279141184707 Z "
+     id="path15" />
+  <path
+     class="wedge"
+     fill="rgb(211,221,153)"
+     d=" M 1015.7553167157029,619.820764240038 L 1110.556475570188,739.682812119446 A 363.6,363.6 0 0,1 1061.9952759694045,772.1123931532181 L 987.6043402569532,638.620225121439 A 210.779287261187,210.779287261187 0 0 0 1015.7553167157029,619.820764240038 Z "
+     id="path16" />
+  <path
+     class="wedge"
+     fill="url(#hiddenPattern)"
+     d=" M 1015.7553167157029,619.820764240038 L 1110.556475570188,739.682812119446 A 363.6,363.6 0 0,1 1061.9952759694045,772.1123931532181 L 987.6043402569532,638.620225121439 A 210.779287261187,210.779287261187 0 0 0 1015.7553167157029,619.820764240038 Z "
+     id="path17" />
+  <path
+     class="wedge"
+     fill="rgb(167,212,127)"
+     d=" M 922.0009075169826,537.5285664269816 L 1033.0036300679303,786.6142657079265 A 363.6,363.6 0 0,1 976.9696798637331,806.2762612595718 L 907.9924199659332,542.4440653148929 A 90.9,90.9 0 0 0 922.0009075169826,537.5285664269816 Z "
+     id="path18" />
+  <path
+     class="wedge"
+     fill="rgb(167,212,127)"
+     d=" M 938.8096360262826,658.2950711107925 L 977.8230848172107,806.0520372932249 A 363.6,363.6 0 0,1 976.9696798637331,806.2762612595718 L 938.3149163127536,658.4250539705656 A 210.779287261187,210.779287261187 0 0 0 938.8096360262826,658.2950711107925 Z "
+     id="path19" />
+  <path
+     class="wedge"
+     fill="rgb(185,221,153)"
+     d=" M 970.797853844298,647.0269752892993 L 1033.0036300679303,786.6142657079265 A 363.6,363.6 0 0,1 1004.0869286426798,798.0451403039392 L 954.0348128202087,653.6534648385831 A 210.779287261187,210.779287261187 0 0 0 970.797853844298,647.0269752892993 Z "
+     id="path20" />
+  <path
+     class="wedge"
+     fill="rgb(163,221,153)"
+     d=" M 954.0348128202087,653.6534648385831 L 1004.0869286426798,798.0451403039392 A 363.6,363.6 0 0,1 977.8230848172107,806.0520372932249 L 938.8096360262826,658.2950711107925 A 210.779287261187,210.779287261187 0 0 0 954.0348128202087,653.6534648385831 Z "
+     id="path21" />
+  <path
+     class="wedge"
+     fill="url(#hiddenPattern)"
+     d=" M 954.0348128202087,653.6534648385831 L 1004.0869286426798,798.0451403039392 A 363.6,363.6 0 0,1 977.8230848172107,806.0520372932249 L 938.8096360262826,658.2950711107925 A 210.779287261187,210.779287261187 0 0 0 954.0348128202087,653.6534648385831 Z "
+     id="path22" />
+  <path
+     class="wedge"
+     fill="rgb(101,204,126)"
+     d=" M 907.9924199659332,542.4440653148929 L 976.9696798637331,806.2762612595718 A 363.6,363.6 0 0,1 962.1674871964562,809.8169555759825 L 904.291871799114,543.3292388939957 A 90.9,90.9 0 0 0 907.9924199659332,542.4440653148929 Z "
+     id="path23" />
+  <path
+     class="wedge"
+     fill="url(#hiddenPattern)"
+     d=" M 907.9924199659332,542.4440653148929 L 976.9696798637331,806.2762612595718 A 363.6,363.6 0 0,1 962.1674871964562,809.8169555759825 L 904.291871799114,543.3292388939957 A 90.9,90.9 0 0 0 907.9924199659332,542.4440653148929 Z "
+     id="path24" />
+  <rect
+     fill="#65cc7e"
+     x="1442.0123"
+     y="625.72406"
+     width="26"
+     height="26"
+     id="rect24" />
+  <rect
+     fill="url(#hiddenPattern)"
+     style="fill:url(#pattern93);stroke:none"
+     x="1442.0123"
+     y="625.72406"
+     width="26"
+     height="26"
+     id="rect25" />
+  <text
+     x="1433.3457"
+     y="638.72406"
+     style="font-weight:normal;font-size:14px"
+     text-anchor="end"
+     id="text25"><tspan
+   style="font-style:italic"
+   id="tspan85">Polycephalomyces</tspan>   0.7%</text>
+  <path
+     class="wedge"
+     fill="rgb(101,204,195)"
+     d=" M 904.291871799114,543.3292388939957 L 962.1674871964562,809.8169555759825 A 363.6,363.6 0 0,1 951.0299165729891,812.0542058448818 L 901.5074791432472,543.8885514612205 A 90.9,90.9 0 0 0 904.291871799114,543.3292388939957 Z "
+     id="path26" />
+  <path
+     class="wedge"
+     fill="url(#hiddenPattern)"
+     d=" M 904.291871799114,543.3292388939957 L 962.1674871964562,809.8169555759825 A 363.6,363.6 0 0,1 951.0299165729891,812.0542058448818 L 901.5074791432472,543.8885514612205 A 90.9,90.9 0 0 0 904.291871799114,543.3292388939957 Z "
+     id="path27" />
+  <rect
+     fill="#65ccc3"
+     x="1442.0123"
+     y="660.39075"
+     width="26"
+     height="26"
+     id="rect27" />
+  <rect
+     fill="url(#hiddenPattern)"
+     style="fill:url(#pattern94);stroke:none"
+     x="1442.0123"
+     y="660.39075"
+     width="26"
+     height="26"
+     id="rect28" />
+  <text
+     x="1433.3457"
+     y="673.39075"
+     style="font-weight:normal;font-size:14px"
+     text-anchor="end"
+     id="text28"><tspan
+   style="font-style:italic"
+   id="tspan86">Hirsutella</tspan>   0.5%</text>
+  <path
+     class="wedge"
+     fill="rgb(127,166,212)"
+     d=" M 901.5074791432472,543.8885514612205 L 951.0299165729891,812.0542058448818 A 363.6,363.6 0 0,1 942.4432569675183,813.5337480362587 L 899.3608142418796,544.2584370090647 A 90.9,90.9 0 0 0 901.5074791432472,543.8885514612205 Z "
+     id="path29" />
+  <rect
+     fill="#7fa6d4"
+     x="1442.0123"
+     y="695.05737"
+     width="26"
+     height="26"
+     id="rect29" />
+  <text
+     x="1433.3457"
+     y="708.05737"
+     style="font-weight:normal;font-size:14px"
+     text-anchor="end"
+     id="text30"><tspan
+   style="font-style:italic"
+   id="tspan87">Paraisaria</tspan>   0.4%</text>
+  <path
+     class="wedge"
+     fill="rgb(153,180,221)"
+     d=" M 923.2776093321515,661.7745342827941 L 951.0299165729891,812.0542058448818 A 363.6,363.6 0 0,1 948.42509483379,812.5254423156612 L 921.7675915388874,662.0477105408863 A 210.779287261187,210.779287261187 0 0 0 923.2776093321515,661.7745342827941 Z "
+     id="path31" />
+  <path
+     class="wedge"
+     fill="url(#hiddenPattern)"
+     d=" M 923.2776093321515,661.7745342827941 L 951.0299165729891,812.0542058448818 A 363.6,363.6 0 0,1 948.42509483379,812.5254423156612 L 921.7675915388874,662.0477105408863 A 210.779287261187,210.779287261187 0 0 0 923.2776093321515,661.7745342827941 Z "
+     id="path32" />
+  <path
+     class="wedge"
+     fill="rgb(114,101,204)"
+     d=" M 899.3608142418796,544.2584370090647 L 942.4432569675183,813.5337480362587 A 363.6,363.6 0 0,1 934.4793130761992,814.7176530620168 L 897.3698282690498,544.5544132655042 A 90.9,90.9 0 0 0 899.3608142418796,544.2584370090647 Z "
+     id="path33" />
+  <path
+     class="wedge"
+     fill="url(#hiddenPattern)"
+     d=" M 899.3608142418796,544.2584370090647 L 942.4432569675183,813.5337480362587 A 363.6,363.6 0 0,1 934.4793130761992,814.7176530620168 L 897.3698282690498,544.5544132655042 A 90.9,90.9 0 0 0 899.3608142418796,544.2584370090647 Z "
+     id="path34" />
+  <rect
+     fill="#7265cc"
+     x="1442.0123"
+     y="729.72406"
+     width="26"
+     height="26"
+     id="rect34" />
+  <rect
+     fill="url(#hiddenPattern)"
+     style="fill:url(#pattern95);stroke:none"
+     x="1442.0123"
+     y="729.72406"
+     width="26"
+     height="26"
+     id="rect35" />
+  <text
+     x="1433.3457"
+     y="742.72406"
+     style="font-weight:normal;font-size:14px"
+     text-anchor="end"
+     id="text35"><tspan
+   style="font-style:italic"
+   id="tspan88">Pleurocordyceps</tspan>   0.4%</text>
+  <path
+     class="wedge"
+     fill="rgb(182,127,212)"
+     d=" M 897.3698282690498,544.5544132655042 L 934.4793130761992,814.7176530620168 A 363.6,363.6 0 0,1 928.572346433737,815.4797925455916 L 895.8930866084343,544.744948136398 A 90.9,90.9 0 0 0 897.3698282690498,544.5544132655042 Z "
+     id="path36" />
+  <path
+     class="wedge"
+     fill="rgb(182,127,212)"
+     d=" M 897.3698282690498,544.5544132655042 L 934.4793130761992,814.7176530620168 A 363.6,363.6 0 0,1 928.572346433737,815.4797925455916 L 895.8930866084343,544.744948136398 A 90.9,90.9 0 0 0 897.3698282690498,544.5544132655042 Z "
+     id="path37" />
+  <rect
+     fill="#b67fd4"
+     x="1442.0123"
+     y="764.39075"
+     width="26"
+     height="26"
+     id="rect37" />
+  <text
+     x="1433.3457"
+     y="777.39075"
+     style="font-weight:normal;font-size:14px"
+     text-anchor="end"
+     id="text38"><tspan
+   style="font-style:italic"
+   id="tspan89">Hymenostilbe</tspan> sp. NHJ6452   0.3%</text>
+  <path
+     class="wedge"
+     fill="rgb(212,127,203)"
+     d=" M 895.8930866084343,544.744948136398 L 928.572346433737,815.4797925455916 A 363.6,363.6 0 0,1 928.4628430099074,815.4929933911408 L 895.8657107524768,544.7482483477852 A 90.9,90.9 0 0 0 895.8930866084343,544.744948136398 Z "
+     id="path39" />
+  <path
+     class="wedge"
+     fill="rgb(212,127,203)"
+     d=" M 895.8930866084343,544.744948136398 L 928.572346433737,815.4797925455916 A 363.6,363.6 0 0,1 928.4628430099074,815.4929933911408 L 895.8657107524768,544.7482483477852 A 90.9,90.9 0 0 0 895.8930866084343,544.744948136398 Z "
+     id="path40" />
+  <rect
+     fill="#d47fcb"
+     x="1442.0123"
+     y="799.05737"
+     width="26"
+     height="26"
+     id="rect40" />
+  <text
+     x="1433.3457"
+     y="812.05737"
+     style="font-weight:normal;font-size:14px"
+     text-anchor="end"
+     id="text41"><tspan
+   style="font-style:italic"
+   id="tspan90">Drechmeria</tspan> <tspan
+   style="font-style:italic"
+   id="tspan91">zeospora</tspan>   0.005%</text>
+  <path
+     class="wedge"
+     fill="rgb(212,127,172)"
+     d=" M 895.8657107524768,544.7482483477852 L 928.4628430099074,815.4929933911408 A 363.6,363.6 0 0,1 928.3533355867053,815.5061610187652 L 895.8383338966763,544.7515402546912 A 90.9,90.9 0 0 0 895.8657107524768,544.7482483477852 Z "
+     id="path42" />
+  <path
+     class="wedge"
+     fill="rgb(212,127,172)"
+     d=" M 895.8657107524768,544.7482483477852 L 928.4628430099074,815.4929933911408 A 363.6,363.6 0 0,1 928.3533355867053,815.5061610187652 L 895.8383338966763,544.7515402546912 A 90.9,90.9 0 0 0 895.8657107524768,544.7482483477852 Z "
+     id="path43" />
+  <rect
+     fill="#d47fac"
+     x="1442.0123"
+     y="833.72406"
+     width="26"
+     height="26"
+     id="rect43" />
+  <text
+     x="1433.3457"
+     y="846.72406"
+     style="font-weight:normal;font-size:14px"
+     text-anchor="end"
+     id="text44"><tspan
+   style="font-style:italic"
+   id="tspan92">Perennicordyceps</tspan> sp.   0.005%</text>
+  <circle
+     cx="885"
+     cy="454.5"
+     r="90.9"
+     id="circle44" />
+  <circle
+     cx="885"
+     cy="454.5"
+     r="363.6"
+     id="circle45" />
+  <text
+     x="885"
+     y="454.5"
+     text-anchor="middle"
+     style="font-weight:bold;font-size:14px"
+     id="text45">Ophiocordycipitaceae</text>
+  <text
+     x="672.0152"
+     y="-856.33795"
+     text-anchor="start"
+     style="font-weight:normal;font-size:14px"
+     transform="rotate(86.576063)"
+     id="text46">2%   [other Ophiocordycipitaceae]</text>
+  <path
+     class="line"
+     d=" M 974.855404252834,468.24104532267404 A 90.9,90.9 0 1 0 885,545.4"
+     id="path46" />
+  <line
+     x1="1244.421617011336"
+     y1="509.4641812906961"
+     x2="974.855404252834"
+     y2="468.24104532267404"
+     id="line46" />
+  <text
+     x="885"
+     y="303.66037"
+     text-anchor="middle"
+     style="font-weight:bold;font-size:14px;-inkscape-font-specification:'sans-serif Bold Italic';font-family:sans-serif;font-style:italic;font-stretch:normal;font-variant:normal"
+     transform="rotate(-40.65273,885,454.5)"
+     id="text47">Ophiocordyceps</text>
+  <path
+     class="line"
+     d=" M 961.8029228392725,258.2113885583814 A 210.779287261187,210.779287261187 0 1 0 885,665.2792872611869"
+     id="path47" />
+  <line
+     x1="1017.4871295809799"
+     y1="115.89680967924613"
+     x2="961.8029228392725"
+     y2="258.2113885583814"
+     id="line47" />
+  <text
+     x="516.29443"
+     y="669.90356"
+     text-anchor="end"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+     transform="rotate(-43.015787)"
+     id="text48">Ophiocordyceps camponoti-nidulantis   56%</text>
+  <path
+     class="line"
+     d=" M 1015.9808663570659,289.35787761238373 A 210.779287261187,210.779287261187 0 0 0 961.8029228392725,258.2113885583814"
+     id="path48" />
+  <line
+     x1="1110.9455548325066"
+     y1="169.62534993188524"
+     x2="1015.9808663570659"
+     y2="289.35787761238373"
+     id="line48" />
+  <text
+     x="404.95972"
+     y="960.25952"
+     text-anchor="start"
+     style="font-weight:normal;font-size:14px"
+     transform="rotate(-53.389)"
+     id="text49"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+       id="tspan71">5%  Ophiocordyceps kniphofioides</tspan></text>
+  <path
+     class="line"
+     d=" M 1036.9253576538072,308.3952648265745 A 210.779287261187,210.779287261187 0 0 0 1015.9808663570659,289.35787761238373"
+     id="path49" />
+  <line
+     x1="1147.0753716396885"
+     y1="202.46536035711446"
+     x2="1036.9253576538072"
+     y2="308.3952648265745"
+     id="line49" />
+  <text
+     x="496.50604"
+     y="959.94275"
+     text-anchor="start"
+     style="font-weight:normal;font-size:14px"
+     transform="rotate(-47.730894)"
+     id="text50"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+       id="tspan72">2%  Ophiocordyceps satoi</tspan></text>
+  <path
+     class="line"
+     d=" M 1049.9333179919022,323.2563008959436 A 210.779287261187,210.779287261187 0 0 0 1036.9253576538072,308.3952648265745"
+     id="path50" />
+  <line
+     x1="1169.5144568097155"
+     y1="228.10105153452548"
+     x2="1049.9333179919022"
+     y2="323.2563008959436"
+     id="line50" />
+  <text
+     x="598.14166"
+     y="926.01422"
+     text-anchor="start"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+     transform="rotate(-41.195867)"
+     id="text51">1%  Ophiocordyceps ovatospora</text>
+  <path
+     class="line"
+     d=" M 1057.256423396682,333.02723541090796 A 210.779287261187,210.779287261187 0 0 0 1049.9333179919022,323.2563008959436"
+     id="path51" />
+  <line
+     x1="1182.147012692109"
+     y1="244.95617916971253"
+     x2="1057.256423396682"
+     y2="333.02723541090796"
+     id="line51" />
+  <text
+     x="666.19604"
+     y="897.37573"
+     text-anchor="start"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+     transform="rotate(-36.85077)"
+     id="text52">0.9%  Ophiocordyceps camponoti-rufipedis</text>
+  <path
+     class="line"
+     d=" M 1063.5611626118766,342.5008073911739 A 210.779287261187,210.779287261187 0 0 0 1057.256423396682,333.02723541090796"
+     id="path52" />
+  <line
+     x1="1193.0228592158905"
+     y1="261.2983483495348"
+     x2="1063.5611626118766"
+     y2="342.5008073911739"
+     id="line52" />
+  <text
+     x="717.80988"
+     y="871.74976"
+     text-anchor="start"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'"
+     transform="rotate(-33.644088)"
+     id="text53">0.9%  Ophiocordyceps ponerus</text>
+  <line
+     x1="1238.85"
+     y1="454.5"
+     x2="1258.35"
+     y2="454.5"
+     class="tick"
+     transform="rotate(340.16463090812533,885,454.5)"
+     id="line53" />
+  <text
+     x="1261.6"
+     y="454.5"
+     text-anchor="start"
+     style="font-weight:normal;font-size:14px;white-space:pre;inline-size:217.13"
+     transform="rotate(-19.835369,885,454.5)"
+     id="text54"
+     xml:space="preserve"><tspan
+       x="1261.6"
+       y="454.5"
+       id="tspan3"><tspan
+         style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan1">48 more </tspan><tspan
+         style="font-style:italic;font-weight:bold;-inkscape-font-specification:'sans-serif Bold Italic'"
+         id="tspan2">Ophiocordyceps</tspan></tspan></text>
+  <path
+     class="line"
+     d=" M 1093.9405739485692,426.71971028991044 A 210.779287261187,210.779287261187 0 0 0 1063.5611626118766,342.5008073911739"
+     id="path54" />
+  <line
+     x1="1245.428169555202"
+     y1="406.5782451167888"
+     x2="1093.9405739485692"
+     y2="426.71971028991044"
+     id="line54" />
+  <path
+     class="line"
+     d=" M 922.0009075169826,537.5285664269816 A 90.9,90.9 0 0 0 974.855404252834,468.24104532267404"
+     id="path55" />
+  <line
+     x1="1033.0036300679303"
+     y1="786.6142657079265"
+     x2="922.0009075169826"
+     y2="537.5285664269816"
+     id="line55" />
+  <text
+     x="885"
+     y="627.13586"
+     text-anchor="middle"
+     style="font-weight:normal"
+     transform="rotate(-52.662579,885,454.5)"
+     id="text55"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+       id="tspan73">Tolypocladium</tspan></text>
+  <path
+     class="line"
+     d=" M 1015.7553167157029,619.820764240038 A 210.779287261187,210.779287261187 0 0 0 1093.3570744222022,486.36279141184707"
+     id="path56" />
+  <line
+     x1="1110.556475570188"
+     y1="739.682812119446"
+     x2="1015.7553167157029"
+     y2="619.820764240038"
+     id="line56" />
+  <text
+     x="1223.1708"
+     y="-45.072281"
+     text-anchor="start"
+     style="font-weight:normal;font-size:14px"
+     transform="rotate(30.176701)"
+     id="text56"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+   id="tspan76">Tolypocladium</tspan> sp. RG-2013a</text>
+  <line
+     x1="1238.85"
+     y1="454.5"
+     x2="1258.35"
+     y2="454.5"
+     class="tick"
+     transform="rotate(416.26466470332645,885,454.5)"
+     id="line57" />
+  <text
+     x="1261.6"
+     y="454.5"
+     text-anchor="start"
+     style="font-color:black;font-weight:normal;font-size:14px"
+     transform="rotate(416.26466470332645,885,454.5)"
+     id="text57">9 more</text>
+  <path
+     class="line"
+     d=" M 987.6043402569532,638.620225121439 A 210.779287261187,210.779287261187 0 0 0 1015.7553167157029,619.820764240038"
+     id="path57" />
+  <line
+     x1="1061.9952759694045"
+     y1="772.1123931532181"
+     x2="987.6043402569532"
+     y2="638.620225121439"
+     id="line58" />
+  <path
+     class="line"
+     d=" M 907.9924199659332,542.4440653148929 A 90.9,90.9 0 0 0 922.0009075169826,537.5285664269816"
+     id="path58" />
+  <line
+     x1="976.9696798637331"
+     y1="806.2762612595718"
+     x2="907.9924199659332"
+     y2="542.4440653148929"
+     id="line59" />
+  <text
+     x="876.96588"
+     y="-680.21893"
+     text-anchor="middle"
+     style="font-weight:normal;font-size:14px"
+     transform="rotate(70.446339)"
+     id="text59"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+       id="tspan74">Purpureocillium</tspan></text>
+  <path
+     class="line"
+     d=" M 954.0348128202087,653.6534648385831 A 210.779287261187,210.779287261187 0 0 0 970.797853844298,647.0269752892993"
+     id="path60" />
+  <line
+     x1="1004.0869286426798"
+     y1="798.0451403039392"
+     x2="954.0348128202087"
+     y2="653.6534648385831"
+     id="line61" />
+  <text
+     x="968.52014"
+     y="-654.99945"
+     text-anchor="start"
+     style="font-weight:normal;font-size:14px"
+     transform="rotate(68.430937)"
+     id="text61"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+       id="tspan75"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+   id="tspan77">1%</tspan>  Purpureocillium lavendulum</tspan></text>
+  <line
+     x1="1238.85"
+     y1="454.5"
+     x2="1258.35"
+     y2="454.5"
+     class="tick"
+     transform="rotate(433.0454304060252,885,454.5)"
+     id="line62" />
+  <text
+     x="1261.6"
+     y="454.5"
+     text-anchor="start"
+     style="font-color:black;font-weight:normal;font-size:14px"
+     transform="rotate(433.0454304060252,885,454.5)"
+     id="text62">4 more</text>
+  <path
+     class="line"
+     d=" M 938.8096360262826,658.2950711107925 A 210.779287261187,210.779287261187 0 0 0 954.0348128202087,653.6534648385831"
+     id="path62" />
+  <line
+     x1="977.8230848172107"
+     y1="806.0520372932249"
+     x2="938.8096360262826"
+     y2="658.2950711107925"
+     id="line63" />
+  <path
+     class="line"
+     d=" M 904.291871799114,543.3292388939957 A 90.9,90.9 0 0 0 907.9924199659332,542.4440653148929"
+     id="path63" />
+  <line
+     x1="962.1674871964562"
+     y1="809.8169555759825"
+     x2="904.291871799114"
+     y2="543.3292388939957"
+     id="line64" />
+  <path
+     class="line"
+     d=" M 901.5074791432472,543.8885514612205 A 90.9,90.9 0 0 0 904.291871799114,543.3292388939957"
+     id="path64" />
+  <line
+     x1="951.0299165729891"
+     y1="812.0542058448818"
+     x2="901.5074791432472"
+     y2="543.8885514612205"
+     id="line65" />
+  <path
+     class="line"
+     d=" M 899.3608142418796,544.2584370090647 A 90.9,90.9 0 0 0 901.5074791432472,543.8885514612205"
+     id="path65" />
+  <line
+     x1="942.4432569675183"
+     y1="813.5337480362587"
+     x2="899.3608142418796"
+     y2="544.2584370090647"
+     id="line66" />
+  <path
+     class="line"
+     d=" M 921.7675915388874,662.0477105408863 A 210.779287261187,210.779287261187 0 0 0 923.2776093321515,661.7745342827941"
+     id="path66" />
+  <line
+     x1="948.42509483379"
+     y1="812.5254423156612"
+     x2="921.7675915388874"
+     y2="662.0477105408863"
+     id="line67" />
+  <path
+     class="line"
+     d=" M 897.3698282690498,544.5544132655042 A 90.9,90.9 0 0 0 899.3608142418796,544.2584370090647"
+     id="path67" />
+  <line
+     x1="934.4793130761992"
+     y1="814.7176530620168"
+     x2="897.3698282690498"
+     y2="544.5544132655042"
+     id="line68" />
+  <line
+     x1="928.572346433737"
+     y1="815.4797925455916"
+     x2="895.8930866084343"
+     y2="544.744948136398"
+     id="line69" />
+  <path
+     class="line"
+     d=" M 895.8930866084343,544.744948136398 A 90.9,90.9 0 0 0 897.3698282690498,544.5544132655042"
+     id="path69" />
+  <line
+     x1="928.4628430099074"
+     y1="815.4929933911408"
+     x2="895.8657107524768"
+     y2="544.7482483477852"
+     id="line70" />
+  <path
+     class="line"
+     d=" M 895.8657107524768,544.7482483477852 A 90.9,90.9 0 0 0 895.8930866084343,544.744948136398"
+     id="path70" />
+  <line
+     x1="928.3533355867053"
+     y1="815.5061610187652"
+     x2="895.8383338966763"
+     y2="544.7515402546912"
+     id="line71" />
+  <path
+     class="line"
+     d=" M 895.8383338966763,544.7515402546912 A 90.9,90.9 0 0 0 895.8657107524768,544.7482483477852"
+     id="path71" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="1316.8821"
+     y="-84.648071"
+     id="text78"><tspan
+       sodipodi:role="line"
+       x="1316.8821"
+       y="-84.648071"
+       id="tspan79" /></text>
+  <text
+     xml:space="preserve"
+     id="text92"
+     style="fill:#000000;text-orientation:auto;-inkscape-font-specification:'sans-serif Bold Italic';font-family:sans-serif;font-style:italic;font-weight:bold;text-align:start;writing-mode:lr-tb;direction:ltr;font-stretch:normal;font-variant:normal;font-size:14px;white-space:pre;shape-inside:url(#rect92)" />
+</svg>
